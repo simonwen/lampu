@@ -9,7 +9,7 @@ blueprint:
   locations:
     modules: 
       - src-repo: lampu
-        git: https://github.com/daihaojun/lampu
+        git: https://github.com/simonwen/lampu
         install:
           puppet-apply: install
         uninstall:
