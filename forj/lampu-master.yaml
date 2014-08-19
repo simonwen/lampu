@@ -9,7 +9,7 @@ blueprint:
   locations:
     modules: 
       - src-repo: lampu
-        git: https://github.com/simonwen/lampu
+        git: https://github.com/camptocamp/puppet-tomcat
         install:
           puppet-apply: install
         uninstall:
